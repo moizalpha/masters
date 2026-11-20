@@ -112,8 +112,8 @@ watches/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/moizalpha/Master.git
+   cd Master
    ```
 
 2. Install dependencies:
@@ -150,6 +150,4 @@ The easiest way to deploy this project for your portfolio:
 
 ## 👨‍💻 Author
 
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [@moizalpha](https://github.com/moizalpha)
