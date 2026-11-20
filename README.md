@@ -112,8 +112,8 @@ watches/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/moizalpha/Master.git
-   cd Master
+   git clone https://github.com/moizalpha/masters.git
+   cd masters
    ```
 
 2. Install dependencies:
