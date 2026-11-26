@@ -9,7 +9,7 @@
 
 An architectural e-commerce showcase and bespoke configurator for Swiss mechanical timepieces. Designed with editorial horology aesthetics, fluid animations, custom WebGL2 lighting shaders, and an interactive timepiece customizer.
 
-🔗 **[Live Demo](https://your-project.vercel.app)** *(Replace with your deployed Vercel URL)*
+🔗 **[Live Demo](https://masters-two-lac.vercel.app/)**
 
 ---
 
